@@ -23,3 +23,7 @@ Nope. There are electric cars with kW/100km and hydrogen powered cards with kg/1
 #### Car height is one value
 
 Nope. There are camper vans with elevating roofs and cars with [height adjustable suspension](https://en.wikipedia.org/wiki/Height_adjustable_suspension)
+
+#### Hatchbacks have 3 or 5 doors
+
+Nope. There is [Hyundai Veloster](https://en.wikipedia.org/wiki/Hyundai_Veloster) which has 4 doors. There is 1 on driver's side, 2 on passenger's side and a rear door.
