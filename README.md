@@ -18,7 +18,7 @@ Nope. There is [DEF/AdBlue](https://en.wikipedia.org/wiki/Diesel_exhaust_fluid)
 
 #### Car consumtion is measured in either metric (l/100km) or imperial (mpg) units
 
-Nope. There are electric cars with kWh/100km and hydrogen powered cards with kg/100km. 
+Nope. There are electric cars with kWh/100km and hydrogen powered cars with kg/100km. 
 
 #### Car height is one value
 
