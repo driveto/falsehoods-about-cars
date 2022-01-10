@@ -14,9 +14,9 @@ Nope. There are hybrid cars that have an electric engine in addition to the stan
  
 #### There is nothing else fuel-related if it's not hybrid
 
-Nope. There is [DEF/AdBlue](https://en.wikipedia.org/wiki/Diesel_exhaust_fluid)
+Nope. There is [DEF/AdBlue](https://en.wikipedia.org/wiki/Diesel_exhaust_fluid). There is also [biodiesel](https://en.wikipedia.org/wiki/Biodiesel), being [ethanol](https://en.wikipedia.org/wiki/Ethanol_fuel_by_country) largely used by cars with [flexible engines](https://en.wikipedia.org/wiki/Flexible-fuel_vehicle) in countries like Brazil.
 
-#### Car consumtion is measured in either metric (l/100km) or imperial (mpg) units
+#### Car consumption is measured in either metric (l/100km) or imperial (mpg) units
 
 Nope. There are electric cars with kW/100km and hydrogen powered cards with kg/100km. 
 
